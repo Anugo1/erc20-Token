@@ -63,6 +63,9 @@ console.log("Transfer successful");
 - Visit the contract page: [Etherscan Link](https://sepolia.etherscan.io/token/0x9328859A096B9cd49756C05D25705EB309d3Ca7b)
 - Use the "Write Contract" and "Read Contract" tabs to interact with it directly.
 
+![LockIn Token](https://github.com/Anugo1/erc20-Token/blob/main/LockIn%20(LTC)%20Token%20Tracker%20_%20Etherscan%20-%20Google%20Chrome%203_23_2025%209_28_31%20PM.png)
+
+
 ## Testing
 To run tests for the contract:
 ```sh
